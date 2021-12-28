@@ -1,4 +1,4 @@
-# fibonacci
+# Fibonacci
 
 The Fibonacci sequence is one of the most famous formulas in maths. 
 Each number in the sequence is the sum of the two numbers that preced it. 
