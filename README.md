@@ -16,5 +16,3 @@ Sample output:
 2
 3
 5
-
-Use n<=1 condition as the base case.
